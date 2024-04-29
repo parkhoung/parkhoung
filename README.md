@@ -22,7 +22,5 @@ int main(void)
  
           
 
-![Image description](https://img.shields.io/badge/any_text-you_like-blue)
-![Image description](https://img.shields.io/github/deployments/:user/:repo/:environment)
 
 [My Page](https://660a8091e50ac480300f058a--comfy-meerkat-b601ab.netlify.app/)
